@@ -11,5 +11,5 @@ Raspberry Setup
 Require a keyboard, mouse and HDMI
 
 Setup NodeJs
-    curl -sL https://deb.nodesource.com/setup_4.x | sudo bash -
-    sudo apt-get install nodejs
+    *curl -sL https://deb.nodesource.com/setup_4.x | sudo bash -
+    *sudo apt-get install nodejs
