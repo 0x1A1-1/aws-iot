@@ -1,0 +1,15 @@
+MyMessageIntent send {Hello|Message}
+MyMessageIntent send {Xiao is awesome|Message}
+MyMessageIntent send {IoT is awesome|Message}
+MyMessageIntent send {I'm done|Message}
+MyMessageIntent send {breakfast lunch dinner|Message}
+MyMessageIntent send {There are so many things that I could say here|Message}
+MyMessageIntent send {Hello world|Message}
+MyMessageIntent send {What's the update|Message}
+MyMessageIntent send {What's for dinner|Message}
+MyMessageIntent send {Peace out|Message}
+MyMessageIntent send {What's the time|Message}
+WhatsMyMessageIntent what's my message
+WhatsMyMessageIntent what is my message
+WhatsMyMessageIntent what was my message
+WhatsMyMessageIntent what is my slack message
