@@ -18,9 +18,9 @@ Login and create a new custom lambda fucntion
 Adding the ASK configuration
 --------------------------------
 Once the Lambda function is configured.
+
 1. Log in to the Amazon Echo Skills Console and click "Get Started" under the Alexa Skills Kit.
-2. Set name, invocation name (what users will say to activate your application), version string and the endpoint for the application. 
-  For the endpoint, get the APN number in your AWS console.
+2. Set name, invocation name (what users will say to activate your application), version string and the endpoint for the application. For the endpoint, get the APN number in your AWS console.
 3. For the Intent Schema, copy in the content of intent file in this folder
 4. Next setup is the "Sample Utterances," which helps Alexa determine which intent to fire and what text to add to each argument.
 
